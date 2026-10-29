@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Life Command",
+  "description": "Personal financial status, physical health, and mental health intelligence command center with predictive scenario forecasting and Google Drive and Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
